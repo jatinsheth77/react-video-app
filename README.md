@@ -1,2 +1,2 @@
-# react-video-app
-sample app  for react learning
+# React-VideosApp
+this app have little example of youtube video via youtube api
